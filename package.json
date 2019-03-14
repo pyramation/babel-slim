@@ -16,11 +16,8 @@
     "url": "git+https://github.com/pyramation/babel-slim.git"
   },
   "keywords": [
-    "boilerplate",
-    "npm",
-    "module",
-    "node",
-    "javascript"
+    "babel",
+    "transpiler"
   ],
   "author": "Dan Lynch <pyramation@gmail.com>",
   "license": "MIT",
