@@ -1,6 +1,6 @@
 {
   "name": "babel-slim",
-  "version": "1.0.0",
+  "version": "7.3.4",
   "description": "@babel/standalone but even slimmer",
   "main": "./lib/index.js",
   "scripts": {
